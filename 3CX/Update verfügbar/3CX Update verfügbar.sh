@@ -1,7 +1,6 @@
-#   Herausgeber: aconitas® GmbH - Bäumenheimer Str. 5 - 86690 Mertingen
-#   Website: https://www.aconitas.com
-#   Telefon: +49 (906) 126725-0
-#   E-Mail: info@aconitas.com
+#   Herausgeber: 
+#   aconitas® GmbH · Bäumenheimer Str. 5 · 86690 Mertingen · Germany
+#   https://www.aconitas.com · info@aconitas.com · +49 (906) 126725-0
 #
 #   Version 1.0
 

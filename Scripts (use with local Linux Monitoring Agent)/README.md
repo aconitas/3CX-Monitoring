@@ -16,4 +16,4 @@ Eine entsprechende Anleitung finden Sie <a href="https://github.com/aconitas/3CX
 - Installation **RiverSuite Agent für Linux** (Die Skipte sind für diesen Agenten optimiert)
 
 # Wichtige Information
-**Als Basis für alle Checks muss zwingend der "001 - Auth Service Check" als erster Check eingerichtet werden.** Auf der Authentifizierung dieses Checks bauen alle weiteren Checks auf. Es müssen keine weiteren Parameter hinterlegt oder angepasst.
+**Als Basis für alle Checks muss zwingend der "001 - Auth Service Check" als erster Check eingerichtet werden.** Auf der Authentifizierung dieses Checks bauen alle weiteren Checks auf. Es müssen keine weiteren Parameter hinterlegt oder angepasst werden.

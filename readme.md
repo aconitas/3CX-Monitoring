@@ -2,8 +2,8 @@
 In diesem Projekt stellen wir frei nutzbare Skripte zur Überwachung/Monitoring des "3CX Phone System" zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie Anregungungen haben, welche Funktion zusätzlich überwacht werden soll, geben Sie uns gerne Bescheid.
 
 Für die Überwachung mit einem lokal installierten Linux Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Linux%20Monitoring%20Agent)">Skripte</a>.
-<Br>Für die Überwachung mit einem lokal installierten Windows Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Windows%20Monitoring%20Agent)">Skripte</a>
-<Br>Für die Überwachung von einem entfernten System aus, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20Remote%20Monitoring)">Skripte</a>
+<Br>Für die Überwachung mit einem lokal installierten Windows Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Windows%20Monitoring%20Agent)">Skripte</a> *** coming soon ***
+<Br>Für die Überwachung von einem entfernten System aus, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20Remote%20Monitoring)">Skripte</a> *** coming soon ***
 
 Wenn Sie diese Skripte hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
 

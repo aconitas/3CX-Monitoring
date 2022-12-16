@@ -1,6 +1,9 @@
 # Beschreibung
 
 Sie finden hier eine Sammlung von Skripten die für die Überwachung verschiedenster Funktionen und Einstellungen in 3CX entwickelt wurden.
+Zur besseren Übersicht wurden für die jeweiligen Skipte Unterordner erstellt. In den Ordner finden Sie jeweils eine kurze Beschreibung, sowie das Skript als Bash-File und im rsf-Format zum einfachen Import in Riversuite.
+Eine Anleitung für den Import finden Sie unter folgendem Link
+
 
 Über denn lokale installieren RiverSuite Agenten für Linux können alle Zugangsdaten und Parameter direkt aus dem System ohne weitere Anpassungen automatisiert in Skripte übergeben werden importiert werden.
 

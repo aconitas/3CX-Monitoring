@@ -2,6 +2,12 @@
 
 Dieser Artikel beschreibt die regelbasierte Verteilung der Skripte über die Checkpaketverwaltung in der **RiverSuite** eingerichtet wird. Sie finden hier eine grafische Anleitung der einzelnen Schritte
 
+# Voraussetzung
+
+Damit die Checks mit den jeweiligen Regeln verknüpft werden können, müssen die Skripte zuerst die <a href="https://github.com/aconitas/3CX-Monitoring/blob/main/HowToImportScripts.md">RiverSuite Skript-Bibliothek</a> hinzugefügt werden. 
+
+https://github.com/aconitas/3CX-Monitoring/blob/main/HowToImportScripts.md
+
 # Anleitung
 
 Step 1: `Monitoring` -> `Vorlagen` -> `Checkpakete verwalten`

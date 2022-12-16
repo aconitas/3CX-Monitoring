@@ -1,5 +1,5 @@
 # 3CX Auth Service Check
-Dieser Check für die Authentifizierung am 3CX Web Server für alle folgenden Checks durch. Er muss daher als erste Check eingerichtet werden und sollte im Intervall von 30 Minuten ausgeführt werden.
+Dieser Check für die Authentifizierung am 3CX Web Server für alle folgenden Checks durch. Er muss daher als erster Check eingerichtet werden und sollte im Intervall von 30 Minuten ausgeführt werden.
 Die Authentifzierungs- und weitere benötigte Daten für den Webserver werden über den installierten Agenten vom Skript automatisch aus der 3CX Datenbank bezogen.
 Es werden keine weiteren Eingaben benötigt
 

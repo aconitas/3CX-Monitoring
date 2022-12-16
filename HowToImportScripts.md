@@ -12,11 +12,11 @@ Step 2: `Anlegen` -> aussagekräftigen Namen vergeben -> `Speichern`
 
 ![RiverSuite_Inventory_0aghLe5hwY](https://user-images.githubusercontent.com/119604651/208199030-66ab091b-9cd5-4d0d-b9c7-244d6745a5b7.png)
 
-Step 3: 
+Step 3: Auf der linken Seite die neu erstelle Kategorie markieren -> `Skript importieren` -> Datei auswählen -> `öffnen`
 
 ![RiverSuite_Inventory_NdD7FqIhii](https://user-images.githubusercontent.com/119604651/208201957-eecbfae9-8880-445b-a712-2aed136978ea.png)
 
-Step 4:
+Step 4: Bei Bedarf Anpassung des Skript-Namens -> `Exit-Codes` wie abgebildet übernehmen -> `Speichern`
 
 ![RiverSuite_Inventory_2IGrqNTg8v](https://user-images.githubusercontent.com/119604651/208199828-e5557027-cdc1-45d0-b0ad-a76cc72e1702.png)
 

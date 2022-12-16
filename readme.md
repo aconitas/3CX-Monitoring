@@ -10,7 +10,7 @@ Falls Sie eine Anregung haben, welches Überwachung zusätzlich ergänzt werden 
 # Für 3CX Reseller in D-A-CH:
 Die aconitas GmbH ist 3CX Solution Provider. Daher können Sie Ihre Lizenzen über uns - entsprechend den Konditionen Ihrer 3CX Partnerstufe und unter voller Anrechnung auf Ihren Partnerumsatz - beziehen. Wir stellen dazu ein Online-Bestellsystem zur Verfügung, mit dem Sie in Echtzeit die Lizenzen bestellen können. Selbstverständlich unterstützen wir auch neue Partner beim Aufbau Ihrer Partnerstufe.
 
-# Für Firmenkunden:
+# Für Firmenkunden in D-A-CH:
 Die aconitas GmbH ist einer der wenigen 3CX Titanium Partner - der höchsten Partnerstufe bei 3CX. Gerne unterstützen wir Sie bei der Umsetzung Ihres 3CX Projektes oder bei der Beschaffung Ihrer 3CX Lizenz.
 
 # Kontakt

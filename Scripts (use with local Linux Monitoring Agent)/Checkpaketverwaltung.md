@@ -1,6 +1,6 @@
 # Beschreibung
 
-Dieser Artikel beschreibt die regelbasierte Verteilung der Skripte über die Checkpaketverwaltung in der RiverSuite eingerichtet wird. Sie finden hier eine grafische Anleitung der einzelnen Schritte
+Dieser Artikel beschreibt die regelbasierte Verteilung der Skripte über die Checkpaketverwaltung in der **RiverSuite** eingerichtet wird. Sie finden hier eine grafische Anleitung der einzelnen Schritte
 
 # Anleitung
 
@@ -25,4 +25,4 @@ Step 5: Nach erfolgreicher konfiguration sollten die Checks wie gewünscht aufge
 
 ![RiverSuite_Inventory_GqO4joJSDF](https://user-images.githubusercontent.com/119604651/208195332-1eb87991-3345-43b4-9c90-b05634fd4067.png)
 
-Nach einer kurzen Zeit sind die Checks den entsprechenden Servern hinzugewiesen
+Nach einer kurzen Zeit sind die Checks den entsprechenden Servern zugewiesen

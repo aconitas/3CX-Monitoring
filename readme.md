@@ -4,6 +4,9 @@ In diesem Projekt stellen wir frei nutzbare Skripte zur Überwachung/Monitoring 
 Für die Überwachung mit einem lokal installierten Linux Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Linux%20Monitoring%20Agent)">Skripte</a>.
 <Br>Für die Überwachung mit einem lokal installierten Windows Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Windows%20Monitoring%20Agent)">Skripte</a> *** coming soon ***
 <Br>Für die Überwachung von einem entfernten System aus, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20Remote%20Monitoring)">Skripte</a> *** coming soon ***
+  
+Generell sollten die Skripte mit allen gängingen RMM-/Monitoring-System verwendbar sein. Wir verwenden das RMM-System Riversuite.
+Daher sind in den Ordnern neben den Standard-Scripts (.sh) auch direkt importierbare Dateien für die Riversuite enthalten (.rsf-Dateien).
 
 Wenn Sie diese Skripte hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
 

@@ -1,6 +1,6 @@
 # Beschreibung
 
-Dieser Artikel beschreibt die Vorgehensweise zum Import von Monitoring-Skripten im .rsf-Format in **RiverSuite**
+Dieser Artikel beschreibt die Vorgehensweise zum Import von Monitoring-Skripten in die Skriptbibliotek im .rsf-Format in **RiverSuite**
 
 # Anleitung
 
@@ -23,6 +23,10 @@ Step 4: Bei Bedarf Anpassung des Skript-Namens -> `Exit-Codes` wie abgebildet ü
 # Ergebnis
 
 Der Check kann nun jedem relevanten Server manuell hinzugefügt werden.
+
+![RiverSuite_Inventory_ufvidNC2tb](https://user-images.githubusercontent.com/119604651/208202792-20a349d8-dc7e-45c4-8ce1-9bbee3332b23.png)
+
+
 
 Ein einfache Möglichkeit für ein regelbasierte Verteilung der Checks über die Checkpaketverwaltung finden sie <a href="https://github.com/aconitas/3CX-Monitoring/blob/main/Scripts%20(use%20with%20local%20Linux%20Monitoring%20Agent)/Checkpaketverwaltung.md">hier</a>.
 ACHTUNG: diese Möglichkeit der regelbasierten Verteilung eignet sich idealerweise nur für die Variante <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Linux%20Monitoring%20Agent)">use with local Linux Monitoring Agent</a>, da hier keine individuelle Anpassung der Parameter und Variablen benötigt wird.

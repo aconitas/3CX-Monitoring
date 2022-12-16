@@ -1,7 +1,7 @@
 # Beschreibung
-In diesem Projekt stellen wir frei nutzbare <a href="url">Skripte</a> zur Überwachung/Monitoring des "3CX Phone System" zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie eine Anregung haben, welche Funktion zusätzlich überwacht werden soll, geben Sie uns gerne Bescheid.
+In diesem Projekt stellen wir frei nutzbare <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts">Skripte</a> zur Überwachung/Monitoring des "3CX Phone System" zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie eine Anregung haben, welche Funktion zusätzlich überwacht werden soll, geben Sie uns gerne Bescheid.
 
-Wenn Sie diese <a href="url">Skripte</a> hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
+Wenn Sie diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts">Skripte</a> hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
 
 # Für 3CX Partner in D-A-CH
 Die aconitas GmbH ist 3CX Solution Provider. Daher können Sie Ihre Lizenzen über uns - entsprechend den Konditionen Ihrer 3CX Partnerstufe und unter voller Anrechnung auf Ihren Partnerumsatz - beziehen. Wir stellen Ihnen dazu ein Online-Bestellsystem zur Verfügung, mit dem Sie in Echtzeit die Lizenzen bestellen können. Selbstverständlich unterstützen wir auch neue Partner beim Aufbau Ihrer 3CX Partnerstufe.

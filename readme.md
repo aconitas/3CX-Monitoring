@@ -16,5 +16,7 @@ Endkunden:
 aconitas® GmbH
 <Br>Bäumenheimer Str. 5
 <Br>86690 Mertingen
-<Br><Br>49 (906) 126725-0<Br>https://www.aconitas.com<Br>info@aconitas.com
+<Br><Br>49 (906) 126725-0
+<Br>https://www.aconitas.com
+<Br>info@aconitas.com
 <Br><Br>Die gesetzlichen Pflichtangaben finden Sie unter: https://www.aconitas.com/pflichtangaben

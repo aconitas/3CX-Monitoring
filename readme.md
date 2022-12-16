@@ -4,7 +4,7 @@ In diesem Projekt stellen wir frei nutzbare <a href="https://github.com/aconitas
 Wenn Sie diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts">Skripte</a> hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
 
 # Für 3CX Partner in D-A-CH
-Die aconitas GmbH ist 3CX Solution Provider. Daher können Sie Ihre Lizenzen über uns - entsprechend den Konditionen Ihrer 3CX Partnerstufe und unter voller Anrechnung auf Ihren Partnerumsatz - beziehen. Wir stellen Ihnen dazu ein Online-Bestellsystem zur Verfügung, mit dem Sie in Echtzeit die Lizenzen bestellen können. Selbstverständlich unterstützen wir auch neue Partner beim Aufbau Ihrer 3CX Partnerstufe.
+Die aconitas GmbH ist 3CX Solution Provider. Daher können Sie Ihre Lizenzen über uns - entsprechend den Konditionen Ihrer 3CX Partnerstufe und unter voller Anrechnung auf Ihren Partnerumsatz - beziehen. Wir stellen Ihnen dazu ein Online-Bestellsystem zur Verfügung, mit dem Sie in Echtzeit die Lizenzen bestellen können. Selbstverständlich unterstützen wir auch neue Partner beim Aufbau der 3CX Partnerstufe.
 
 # Für Firmenkunden in D-A-CH
 Die aconitas GmbH ist einer der wenigen 3CX Titanium Partner - der höchsten Partnerstufe bei 3CX. Gerne unterstützen wir Sie bei der Umsetzung Ihres 3CX Projektes oder bei der Beschaffung Ihrer 3CX Lizenz.

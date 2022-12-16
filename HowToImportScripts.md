@@ -1,6 +1,6 @@
 # Beschreibung
 
-Dieser Artikel beschreibt die Vorgehensweise zum Import von Monitoring-Skripten im rsf-Format in RiverSuite
+Dieser Artikel beschreibt die Vorgehensweise zum Import von Monitoring-Skripten im .rsf-Format in **RiverSuite**
 
 # Anleitung
 
@@ -13,7 +13,8 @@ Step 2: `Anlegen` -> aussagekräftigen Namen vergeben -> `Speichern`
 ![RiverSuite_Inventory_0aghLe5hwY](https://user-images.githubusercontent.com/119604651/208199030-66ab091b-9cd5-4d0d-b9c7-244d6745a5b7.png)
 
 Step 3: 
-![RiverSuite_Inventory_0aghLe5hwY](https://user-images.githubusercontent.com/119604651/208199799-698b81d3-29ff-459a-875c-46fd96745898.png)
+
+![RiverSuite_Inventory_NdD7FqIhii](https://user-images.githubusercontent.com/119604651/208201957-eecbfae9-8880-445b-a712-2aed136978ea.png)
 
 Step 4:
 

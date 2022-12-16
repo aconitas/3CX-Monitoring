@@ -1,6 +1,6 @@
 # Beschreibung
 
-Dieser Artikel beschreibt die Vorgehensweise zum Import von Monitoring-Skripten in die Skriptbibliotek im .rsf-Format in **RiverSuite**
+Dieser Artikel beschreibt die Vorgehensweise zum Import von Monitoring-Skripten in die Skriptbibliothek im .rsf-Format in **RiverSuite**
 
 # Anleitung
 

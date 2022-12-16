@@ -1,6 +1,8 @@
 # Beschreibung
 In diesem Projekt stellen wir frei nutzbare Skripte zur Überwachung/Monitoring des "3CX Phone System" zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie eine Anregung haben, welches Überwachung zusätzlich ergänzt werden soll, geben Sie uns gerne Bescheid.
 
+Direkt zu den Scripts: https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts
+
 Wenn Sie diese Skripte hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
 
 # Für 3CX Partner in D-A-CH

@@ -1,5 +1,5 @@
 # Beschreibung
-In diesem Projekt stellen wir frei nutzbare <a href="url">Skripte</a> zur Überwachung/Monitoring des "3CX Phone System" zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie eine Anregung haben, welches Überwachung zusätzlich ergänzt werden soll, geben Sie uns gerne Bescheid.
+In diesem Projekt stellen wir frei nutzbare <a href="url">Skripte</a> zur Überwachung/Monitoring des "3CX Phone System" zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie eine Anregung haben, welche Funktion zusätzlich überwacht werden soll, geben Sie uns gerne Bescheid.
 
 Wenn Sie diese <a href="url">Skripte</a> hilfreich finden, so würden wir uns sehr freuen, wenn Sie uns für Ihre 3CX Themen berücksichtigen würden.
 

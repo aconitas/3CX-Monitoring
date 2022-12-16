@@ -7,13 +7,10 @@
 #
 ##########################################################################
 
-
 ########################################################
 #### Import Zugangsdaten aus 3CX DB
 Password=$(sudo -u postgres psql -d database_single -c "SELECT * FROM parameter where name='WEBSERVERPASS'" | grep WEBSERVERPASS | tr -s ' ' | cut -d ' ' -f 10)
-#echo $Password
 Username=$(sudo -u postgres psql -d database_single -c "SELECT * FROM parameter where name='WEBSERVERUSER'" | grep WEBSERVERUSER | tr -s ' ' | cut -d ' ' -f 10)
-#echo $Username
 
 ########################################################
 #### Import WebServerPort aus 3CX DB
@@ -31,7 +28,6 @@ fi
 ########################################################
 #### Import WebServerPort in Variable
 HTTP_PORT=$(cat /tmp/3cx.port)
-#echo $HTTP_PORT
 
 ########################################################
 #### Authentifizierung an 3CX Web Console

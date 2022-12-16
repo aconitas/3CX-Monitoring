@@ -4,11 +4,11 @@ Dieser Artikel beschreibt die regelbasierte Verteilung der Skripte über die Che
 
 # Anleitung
 
-Step 1: Monitoring -> Vorlagen -> Checkpakete verwalten
+Step 1: `Monitoring` -> `Vorlagen` -> `Checkpakete verwalten`
 
 ![FID07OHnfF](https://user-images.githubusercontent.com/119604651/208193034-d068b7aa-f0a0-4948-a7d4-1d9a8f9aeb21.png)
 
-Step 2: Checkpaket erstellen -> dem Checkpaket einen aussagekräftigen Namen zuweisen -> Neue Regelbasierte Zuweisung starten
+Step 2: `Checkpaket erstellen` -> dem Checkpaket einen aussagekräftigen Namen zuweisen -> `Neue Regelbasierte Zuweisung` starten
 
 ![RiverSuite_Inventory_SNfZFJs6ux](https://user-images.githubusercontent.com/119604651/208192262-0baf0af6-b786-4b2a-8455-1c067e60bb74.png)
 

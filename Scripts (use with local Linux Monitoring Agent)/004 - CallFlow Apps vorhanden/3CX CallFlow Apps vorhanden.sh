@@ -11,7 +11,6 @@
 ########################################################
 #### Import WebServerPort in Variable
 HTTP_PORT=$(cat /tmp/3cx.port)
-#echo $HTTP_PORT
 
 ########################################################
 #### Abruf Werte aus 3CX Web Console

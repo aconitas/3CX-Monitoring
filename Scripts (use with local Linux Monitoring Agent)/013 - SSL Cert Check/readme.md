@@ -4,6 +4,7 @@ Diese Skript prüft die aktuelle Laufzeit des SSL Zertifikats und gibt den Name 
 # Besonderheiten zur Konfiguration
 Die Schwellwerte für Warnungen und Fehler können über Variablen global konfiguriert werden
 
+![RiverSuite_Inventory_GBF1BEwnuk](https://user-images.githubusercontent.com/119604651/208267493-7f16d196-addf-4829-891e-e50aeb2b3a50.png)
 
 möglicher Output:
 Check erfolgreich:
@@ -11,7 +12,8 @@ Check erfolgreich:
 Check mit Warnung:
 
 Check mit Fehler:
-![4Edg95uW6g](https://user-images.githubusercontent.com/119604651/208267410-2f76b942-1d5c-4c70-8afb-50ae1ef19796.png)
+![BC3aw7YS4D](https://user-images.githubusercontent.com/119604651/208267446-46477f01-df5b-40ca-b4c9-e1157eedf0d3.png)
+
 Mögliche Fehlerquellen sind
 - Server nicht erreichbar
 - Zertifikat abgelaufen

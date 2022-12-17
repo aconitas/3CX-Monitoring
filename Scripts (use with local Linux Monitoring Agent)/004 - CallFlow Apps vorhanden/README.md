@@ -1,4 +1,4 @@
-# CX CallFlow Apps vorhanden
+# 3CX CallFlow Apps vorhanden
 Dieser Check prüft ob in der 3CX CallFlow Apps vorhanden sind.
 
 Output Beispiel:

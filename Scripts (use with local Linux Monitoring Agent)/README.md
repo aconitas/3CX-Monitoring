@@ -1,8 +1,8 @@
 # Beschreibung
 
-Sie finden hier eine Sammlung von Skripten die für die Überwachung verschiedenster Funktionen und Einstellungen in 3CX entwickelt wurden.
+Sie finden hier eine Sammlung von Skripten, die für die Überwachung verschiedenster Funktionen und Einstellungen in 3CX entwickelt wurden.
 
-Zur besseren Übersicht wurden für die einzelnen Skripte mit weiteren Informationen in Unterordner abgelegt. In den jeweiligen Ordnern finden Sie eine kurze Beschreibung, sowie das Skript als Bash-File. Da unser Schwerpunkt auf dem Monitoring-System von **RiverSuite** liegt haben wir zum einfachen Import auch gleich die passenden .rsf-Datei mit abgelegt. 
+Zur besseren Übersicht wurden für die einzelnen Skripte mit weiteren Informationen in entsprechenden Unterordnern abgelegt. In den jeweiligen Ordnern finden Sie eine kurze Beschreibung, sowie das Skript als Bash-File. Da unser Schwerpunkt auf dem Monitoring-System von **RiverSuite** liegt haben wir, zum einfachen Import, auch gleich die passende .rsf-Datei mit abgelegt. 
 Eine Anleitung für den Import finden Sie unter folgendem <a href="https://github.com/aconitas/3CX-Monitoring/blob/main/HowToImportScripts.md">Link</a>.
 
 Über denn lokal installieren **RiverSuite Agenten für Linux** können alle Zugangsdaten und Parameter direkt aus dem System, sowie ohne weitere Einstellungen automatisiert in die Checks übergeben werden. Es sind keine weiteren Anpassungen notwendig.

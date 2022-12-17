@@ -17,7 +17,7 @@ Für die Überwachung der Festplattenauslastung, Performance und Dienste verwend
 # Voraussetzungen 
 - Linux Debian OS
 - Installlation 3CX Phone System
-- Installation **RiverSuite Agent für Linux** (Die Skipte sind für diesen Agenten optimiert)
+- Installation **RiverSuite Agent für Linux** (die Skipte sind für diesen Agenten optimiert)
 
 # Wichtige Information
 **Als Basis für alle Checks muss zwingend der "001 - Auth Service Check" als erster Check eingerichtet werden.** Auf der Authentifizierung dieses Checks bauen alle weiteren Checks auf. Es müssen keine weiteren Parameter hinterlegt oder angepasst werden.

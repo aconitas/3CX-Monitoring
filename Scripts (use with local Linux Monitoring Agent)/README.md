@@ -10,6 +10,10 @@ Eine Anleitung für den Import finden Sie unter folgendem <a href="https://githu
 Diese Lösung eignet sich ideal für das automatisierte Deployment mehrerer Systeme über die **Checkpaketveraltung** in **RiverSuite**. Hierzu muss lediglich der **RiverSuite Agent für Linux** verteilt werden. Alle zugewiesenen Checks werden dann komplett automatisiert und ohne weitere Anpassung für alle inventarisierten 3CX Serversysteme verteilt.
 Eine entsprechende Anleitung finden Sie <a href="https://github.com/aconitas/3CX-Monitoring/blob/main/Scripts%20(use%20with%20local%20Linux%20Monitoring%20Agent)/Checkpaketverwaltung.md">hier</a>.
 
+Für die Überwachung der Festplattenauslastung, Performance und Dienste verwenden wir die bereits in **RiverSuite** enthaltenen Standard-Checks:
+![0LYzklwi4e](https://user-images.githubusercontent.com/119604651/208267755-63577dfc-ab90-4c61-bcec-565e6acb6a75.png)
+
+
 # Voraussetzungen 
 - Linux Debian OS
 - Installlation 3CX Phone System

@@ -1,5 +1,5 @@
 # Beschreibung
-In diesem Projekt stellen wir frei nutzbare Skripte zur Überwachung von Funktion und Einstellungen des **3CX Phone System** zur Verfügung. Unser Ziel ist es, diese kontinuierlich zu optimieren und zu erweitern. Falls Sie Anregungungen haben, welche Funktion zusätzlich überwacht werden soll, geben Sie uns gerne Bescheid.
+In diesem Projekt stellen wir frei nutzbare Skripte zur Überwachung von Funktion und Einstellungen des **3CX Phone System** zur Verfügung. Das Konzept hierbei ist die Sicherstellung des Betrtiebs, sowie die Einhaltung div. Sicherheitseinstellungen und Standards in der Konfiguration. Unser Ziel ist es, diese Skripte kontinuierlich zu optimieren und zu erweitern. Falls Sie Anregungungen haben, welche Funktion zusätzlich überwacht werden soll, geben Sie uns gerne Bescheid.
 
 - Für die Überwachung mit einem lokal installierten Linux Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Linux%20Monitoring%20Agent)">Skripte</a>.
 - Für die Überwachung mit einem lokal installierten Windows Monitoring Agent, verwenden Sie bitte diese <a href="https://github.com/aconitas/3CX-Monitoring/tree/main/Scripts%20(use%20with%20local%20Windows%20Monitoring%20Agent)">Skripte</a> *** coming soon ***

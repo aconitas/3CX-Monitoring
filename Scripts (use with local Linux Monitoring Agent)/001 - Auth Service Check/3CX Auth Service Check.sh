@@ -3,7 +3,7 @@
 #   aconitas® GmbH · Bäumenheimer Str. 5 · 86690 Mertingen · Germany
 #   https://www.aconitas.com · info@aconitas.com · +49 (906) 126725-0
 #
-#   Version 1.0 · 2022-12-15
+#   Version 1.2 · 2023-03-27
 #
 ##########################################################################
 
@@ -33,7 +33,16 @@ HTTP_PORT=$(cat /tmp/3cx.port)
 #### Authentifizierung an 3CX Web Console
 RESULT=$(curl -s --request POST --cookie /tmp/3cxcookie --cookie-jar /tmp/3cxcookie --data "{'username':'$Username','password':'$Password'}" --header "Content-Type: application/json" --output - localhost:${HTTP_PORT}/api/login)
 
+#echo $RESULT
+
 if [[ $RESULT =~ 'AuthSuccess' ]]; then
+  RESULTTOKEN=$(curl --request GET --cookie /tmp/3cxcookie --cookie-jar /tmp/3cxcookie -s localhost:${HTTP_PORT}/api/Token)
+  if [[ $RESULTTOKEN =~ '"access_token":' ]]; then
+    echo $RESULTTOKEN | egrep -o '"access_token":"([^\s].*)","' | sed -nr 's/"access_token":"([^\s].*)","/\1/p' > /tmp/3cx.token
+  else
+    rm /tmp/3cx.token
+    echo Token Anforderung fehlgeschlagen.
+  fi
   echo Anmeldung erfolgreich
   exit 0
 else

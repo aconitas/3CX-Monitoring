@@ -2,4 +2,4 @@
 Dieser Check prüft ob alle angelegten Trunks registriert sind.
 
 Output Beispiel:
-![Output Beispiel](../../_images/image-20221128212953-12.png)
+![Output Beispiel](../_images/image-20221128212953-12.png)

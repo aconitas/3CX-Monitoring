@@ -5,7 +5,7 @@ Weitere benötigte Daten für den Webserver werden über den installierten Agent
 Es werden keine weiteren Eingaben benötigt
 
 Im Audit-Log der 3CX erscheint pro Anmeldung ein Eintrag von 127.0.0.1:
-![3CX Audit-Log Screenshot](../../_images/image-20221128203828-3.png)
+![3CX Audit-Log Screenshot](../_images/image-20221128203828-3.png)
 
 Output:
-![Output Beispiel](../../_images/image-20221128212056-3.png)
+![Output Beispiel](../_images/image-20221128212056-3.png)

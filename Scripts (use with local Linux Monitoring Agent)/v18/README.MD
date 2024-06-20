@@ -16,7 +16,7 @@ Für die Überwachung der Festplattenauslastung, Performance und Dienste verwend
 
 # Voraussetzungen 
 - Linux Debian OS
-- Installlation 3CX Phone System
+- Installlation 3CX Phone System v18
 - Installation **RiverSuite Agent für Linux** (die Skipte sind für diesen Agenten optimiert)
 
 # Wichtige Information

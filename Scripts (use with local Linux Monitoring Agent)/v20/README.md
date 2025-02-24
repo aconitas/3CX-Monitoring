@@ -20,4 +20,4 @@ Für die Überwachung der Festplattenauslastung, Performance und Dienste verwend
 - Installation **RiverSuite Agent für Linux** (die Skipte sind für diesen Agenten optimiert)
 
 # Wichtige Information
-**Als Basis für alle Checks muss zwingend der "001 - Auth Service Check" als erster Check eingerichtet werden.** Auf der Authentifizierung dieses Checks bauen alle weiteren Checks auf. Die Parameter $Password und $Username müssen in der RiverSuite entsprechend als Parameter angelegt werden
+**Als Basis für alle Checks muss zwingend der "001 - Auth Service Check" oder "000 - API Auth Service Check" als erster Check eingerichtet werden.** Auf der Authentifizierung dieses Checks bauen alle weiteren Checks auf. Die Parameter $Password und $Username müssen in der RiverSuite entsprechend als Parameter angelegt werden. 

@@ -8,7 +8,7 @@ Damit das Monitoring ausgeführt werden kann, wird ein Linux Server als Monitori
 
 # Wichtige Informationen 
 
-Die Checks müssen für jede zu überwachende 3CX Instanz angelegt werden. D.h. jeder 3CX Instanz benötigt ein eigenes Auth Skript ( API Auth oder PW Auth). Weiterführend muss in jedem Check die URL des 3CX Servers angegeben werden. So können mittels dem Monitoring Server mehrere 3CX Instanzen überwacht werden. 
+Die Checks müssen für jede zu überwachende 3CX Instanz angelegt werden. D.h. jede 3CX Instanz benötigt ihre eigenen Skripte. Weiterführend muss in jedem Check die URL des 3CX Servers angegeben werden. So können mittels dem Monitoring Server mehrere 3CX Instanzen überwacht werden. 
 
 Beispiel: 
 

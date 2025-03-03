@@ -22,7 +22,7 @@ HEADER="Authorization: Bearer ${TOKEN_FILE}"
 ########################################################
 #### Abruf Werte aus 3CX Web Console
 
-RESULT=$(curl --request GET --cookie /tmp/3cxcookie --cookie-jar /tmp/3cxcookie -s "$SERVERURL/xapi/v1/CrmIntegration" -H "${HEADER}")
+RESULT=$(curl -s "$SERVERURL/xapi/v1/CrmIntegration" -H "${HEADER}")
 
 ########################################################
 #### Auswertung

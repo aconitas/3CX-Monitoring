@@ -22,7 +22,7 @@ HEADER="Authorization: Bearer ${TOKEN_FILE}"
 ########################################################
 #### Abruf Werte aus 3CX Web Console
 
-RESPONSE=$(curl --request GET --cookie /tmp/3cxcookie --cookie-jar /tmp/3cxcookie -s "$SERVERURL/xapi/v1/E164Settings" -H "${HEADER}")
+RESPONSE=$(curl -s "$SERVERURL/xapi/v1/E164Settings" -H "${HEADER}")
 
 ########################################################
 #### Überprüfen, ob E164-Verarbeitung aktiviert ist

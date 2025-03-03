@@ -3,7 +3,7 @@
 #   aconitas® GmbH · Bäumenheimer Str. 5 · 86690 Mertingen · Germany
 #   https://www.aconitas.com · info@aconitas.com · +49 (906) 126725-0
 #
-#   Version 1.0 - Remote Monitoring - Trunk Check - 2025-03-03 - Kevin Pascher
+#   Version 1.0 - Remote Monitoring - E164 Check - 2025-03-03 - Kevin Pascher
 #
 ##########################################################################
 

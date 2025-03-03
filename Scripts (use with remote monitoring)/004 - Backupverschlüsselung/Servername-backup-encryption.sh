@@ -11,7 +11,7 @@
 #### Definition der Variablen
 
 
-SERVERURL="$serverurl"
+SERVERURL="HIER URL Eintragen: https://XXXXXX"
 
 # Extrahiere einen sicheren Dateinamen aus SERVERURL
 SERVERNAME=$(echo "$SERVERURL" | sed 's|https\?://||g' | sed 's|/.*||')

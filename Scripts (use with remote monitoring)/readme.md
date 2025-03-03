@@ -12,5 +12,5 @@ Die Checks müssen für jede zu überwachende 3CX Instanz angelegt werden. D.h. 
 
 Beispiel: 
 
-![Beispiel](Scripts (_images/Monitoring-Checks.png)
+![Beispiel](_images/Monitoring-Checks.png)
 
